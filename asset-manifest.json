@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crafting-simulator/static/css/main.f855e6bc.css",
+    "main.js": "/crafting-simulator/static/js/main.827293de.js",
+    "static/js/453.c9aef532.chunk.js": "/crafting-simulator/static/js/453.c9aef532.chunk.js",
+    "index.html": "/crafting-simulator/index.html",
+    "main.f855e6bc.css.map": "/crafting-simulator/static/css/main.f855e6bc.css.map",
+    "main.827293de.js.map": "/crafting-simulator/static/js/main.827293de.js.map",
+    "453.c9aef532.chunk.js.map": "/crafting-simulator/static/js/453.c9aef532.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.827293de.js"
+  ]
+}
