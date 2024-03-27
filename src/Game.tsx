@@ -8,6 +8,8 @@ import {Tool} from "./data/tool";
 import {GameData} from "./gamedata/gamedata";
 import {Resources} from "./data/ResourceList";
 import UpgradeSelector from "./UpgradeSelector/UpgradeSelector";
+import OpenCraftingModal from "./Crafting/OpenCraftingModal";
+import OpenCraftingModalButton from "./Crafting/OpenCraftingModal";
 
 interface WoodCollectorProps {
     tool: Tool,
@@ -123,6 +125,7 @@ class WoodCollector extends Component<WoodCollectorProps, AppState> {
                     <Grid item></Grid>
                 </Grid>
                 <UpgradeSelector />
+                <OpenCraftingModalButton />
             </Container>
         );
     }
